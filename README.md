@@ -1,4 +1,4 @@
-# PoseBench: Virtual Try-On Model Exploration
+# PoseBench: Virtual Try-On Model Exploration & Evaluation
 
 > **Goal:** Explore and compare state-of-the-art diffusion-based virtual try-on models (CatVTON, IDM-VTON etc) to understand their practical performance on diverse poses and in-the-wild images.
 
